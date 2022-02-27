@@ -57,7 +57,7 @@ train_path = "facial_datasets/TRAIN/"
 test_path = "facial_datasets/TEST/"
 validation_path = "facial_datasets/VALIDATION/"
 
-
+print(beyza)
 
 
 #from keras.preprocessing.image import ImageDataGenerator, img_to_array, load_img
