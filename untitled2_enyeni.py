@@ -2,7 +2,7 @@
 """
 Created on Mon Jan 19 19:30:05 2022
 
-@author: Ruzgar
+@author:Beyza Nur Ayvaz
 """
 import tensorflow
 from PIL import Image
@@ -57,7 +57,6 @@ train_path = "facial_datasets/TRAIN/"
 test_path = "facial_datasets/TEST/"
 validation_path = "facial_datasets/VALIDATION/"
 
-print(beyza)
 
 
 #from keras.preprocessing.image import ImageDataGenerator, img_to_array, load_img
